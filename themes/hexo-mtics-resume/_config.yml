@@ -49,10 +49,10 @@ resume:
   projects:
     - name: 应用服务网格 Service Mesh Project(Golang Developer).
       description: 主要内容涉及云服务管理面开发，同时看护并实现istio服务网格控制面和数据面自研特性。
-      contribution: Contributor.
+      contribution: 团队主要开发成员/业务模块owner.
     - name: NA客户游戏上云项目 Games Deploy On Cloud(Solution Architect)
-      description: NA客户游戏业务上云项目。
-      contribution: 项目直接带来同比100%+的收入增量。
+      description: NA客户游戏业务上云项目，项目直接带来同比100%+的收入增量。
+      contribution: 项目核心贡献者。
   skills:
     - title: Golang 技术栈
       items: Golang, GO WEB, SQL, Microservice/Restful Development
