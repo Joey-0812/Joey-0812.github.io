@@ -47,14 +47,14 @@ resume:
       company: 公有云业务部/杭州华为企业通信有限公司 Public Cloud Solutions Department. Hangzhou,Huawei Enterprise Communication Technology, Inc.
       description: 基于华为云现有业务，为NA客户提供可信的上云/用云解决方案。主要面向互联网赛道，广电媒资行业和游戏行业。
   projects:
-    - name: Service Mesh Project(Golang Developer).
+    - name: 应用服务网格 Service Mesh Project(Golang Developer).
       description: 主要内容涉及云服务管理面开发，同时看护并实现istio服务网格控制面和数据面自研特性。
       contribution: Contributor.
-    - name: Games on the Cloud Project(Solution Architect)
+    - name: NA客户游戏上云项目 Games Deploy On Cloud(Solution Architect)
       description: NA客户游戏业务上云项目。
-      contribution: Creator and maintainer.
+      contribution: 项目直接带来同比100%+的收入增量。
   skills:
-    - title: Golang Tech Stack.
-      items: Golang, GO WEB, Beego, SQL, Microservice/Restful Development
-    - title: Service Mesh
-      items: Istio, Envoy, Sidecar Architect, Kubernetes, Dev Ops, Helm, etc.
+    - title: Golang 技术栈
+      items: Golang, GO WEB, SQL, Microservice/Restful Development
+    - title: 服务网格/云原生
+      items: Istio, Envoy, Kubernetes, Dev Ops, Helm, etc.
