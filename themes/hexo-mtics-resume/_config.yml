@@ -1,0 +1,60 @@
+title: 个人简历 Résumé
+
+footer:
+  enable: true # decide where you want to show  your footer
+  copyright:  # customize your copyright in footer, e.g. © 2019-2020 Zhiwei Li
+    startYear: 2021
+    currentYear: 2023
+    author: Zhiwei Li
+    link: https://jiayong-zhou.github.io/
+    beian: 
+
+
+################################
+#     Write your resume Here   #
+################################
+resume:
+  name: 周佳勇
+  jobtitle: 云原生开发工程师
+  portrait: img/default.jpg # author's portrait
+  contact:
+    - icon: fa-envelope
+      text: jiayong.zhou@outlook.com
+    - icon: fa-phone-square
+      text: 13626711283
+    - icon: fa-globe
+      text: 个人博客
+      link: https://www.cnblogs.com/zhoujiayong/
+    - icon: fa-github
+      text: GITHUB
+      link: https://github.com/mtics/hexo-mtics-resume
+  education:
+    - university: Hangzhou Dianzi University Master
+      duration: Sep 2017 - Jun 2020
+      location: No.1158, No.2 Street, Baiyang Street, Hangzhou Economic Development Zone, Hangzhou, Zhejiang Province
+      major: Computer Technology
+    - university: Jiyang College of Zhejiayong A&F University Bachelors
+      duration: Aug 2013 - Jun 2017 
+      location: No.77, Puyang Road, Zhuji City, Shaoxing City, Zhejiang Province
+      major: Computer Science and Technology
+  experience:
+    - title: Golang Developer
+      duration: Apr 2018 - Now
+      company: 容器服务域/杭州华为云计算技术有限公司 Container Service Domain.Hangzhou,Huawei Enterprise Communication Technology, Inc.
+      description: 负责云服务ASM基础版/敏捷版的项目开发和部分版本管理工作，担任部分特性owner，独立承担一定粒度的特性设计/特性开发工作。
+    - title: Cloud Solution Architect
+      duration: Mar 2019 - Apr 2020
+      company: 公有云业务部/杭州华为企业通信有限公司 Public Cloud Solutions Department. Hangzhou,Huawei Enterprise Communication Technology, Inc.
+      description: 基于华为云现有业务，为NA客户提供可信的上云/用云解决方案。主要面向互联网赛道，广电媒资行业和游戏行业。
+  projects:
+    - name: Service Mesh Project(Golang Developer).
+      description: 主要内容涉及云服务管理面开发，同时看护并实现istio服务网格控制面和数据面自研特性。
+      contribution: Contributor.
+    - name: Games on the Cloud Project(Solution Architect)
+      description: NA客户游戏业务上云项目。
+      contribution: Creator and maintainer.
+  skills:
+    - title: Golang Tech Stack.
+      items: Golang, GO WEB, Beego, SQL, Microservice/Restful Development
+    - title: Service Mesh
+      items: Istio, Envoy, Sidecar Architect, Kubernetes, Dev Ops, Helm, etc.
