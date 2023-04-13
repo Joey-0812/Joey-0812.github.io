@@ -29,12 +29,12 @@ resume:
       text: GITHUB
       link: https://github.com/mtics/hexo-mtics-resume
   education:
-    - university: Hangzhou Dianzi University Master
-      duration: Sep 2017 - Jun 2020
+    - university: Hangzhou Dianzi University (Cloud Computing Research Center)
+      duration: Sep 2017 - Jun 2020 Master
       location: No.1158, No.2 Street, Baiyang Street, Hangzhou Economic Development Zone, Hangzhou, Zhejiang Province
       major: Computer Technology
     - university: Jiyang College of Zhejiayong A&F University Bachelors
-      duration: Aug 2013 - Jun 2017 
+      duration: Aug 2013 - Jun 2017 Bachelors
       location: No.77, Puyang Road, Zhuji City, Shaoxing City, Zhejiang Province
       major: Computer Science and Technology
   experience:
@@ -47,10 +47,10 @@ resume:
       company: 公有云业务部/杭州华为企业通信有限公司 Public Cloud Solutions Department. Hangzhou,Huawei Enterprise Communication Technology, Inc.
       description: 基于华为云现有业务，为NA客户提供可信的上云/用云解决方案。主要面向互联网赛道，广电媒资行业和游戏行业。
   projects:
-    - name: 应用服务网格 Service Mesh Project(Golang Developer).
+    - name: 应用服务网格  Service Mesh Project(Golang Developer).
       description: 主要内容涉及云服务管理面开发，同时看护并实现istio服务网格控制面和数据面自研特性。
       contribution: 团队主要开发成员/业务模块owner.
-    - name: NA客户游戏上云项目 Games Deploy On Cloud(Solution Architect)
+    - name: NA客户游戏上云项目  Games Deploy On Cloud(Solution Architect)
       description: NA客户游戏业务上云项目，项目直接带来同比100%+的收入增量。
       contribution: 项目核心贡献者。
   skills:
