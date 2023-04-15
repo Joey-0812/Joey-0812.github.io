@@ -41,11 +41,11 @@ resume:
     - title: Golang Developer
       duration: Apr 2018 - Now
       company: 容器服务域/杭州华为云计算技术有限公司 Container Service Domain.Hangzhou,Huawei Enterprise Communication Technology, Inc.
-      description: 负责云服务ASM某产品项目开发和部分版本管理工作，担任部分特性owner，独立承担一定粒度的特性设计/特性开发工作，包括但不限于。
+      description: 熟悉istio，k8生态，熟练使用go语言开发云原生项目。负责云服务ASM某产品项目开发和部分版本管理工作，担任部分特性owner，独立承担一定粒度的特性设计/特性开发工作，包括但不限于在开源产品基础上实现产品化功能，性能提升特性等。
     - title: Cloud Solution Architect
       duration: Mar 2019 - Apr 2020
       company: 公有云业务部/杭州华为企业通信有限公司 Public Cloud Solutions Department. Hangzhou,Huawei Enterprise Communication Technology, Inc.
-      description: 基于华为云现有业务，为NA客户提供可信的上云/用云解决方案。主要面向互联网赛道，广电媒资行业和游戏行业。
+      description: NA项目的关键角色之一。基于华为云现有业务，为NA客户提供可信的上云/用云解决方案。主要面向互联网赛道，广电媒资行业和游戏行业。
   projects:
     - name: 应用服务网格  Service Mesh Project(Golang Developer).
       description: 主要内容涉及云服务管理面开发，同时看护并实现istio服务网格控制面和数据面自研特性。
