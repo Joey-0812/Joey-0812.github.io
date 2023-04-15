@@ -32,11 +32,11 @@ resume:
     - university: Hangzhou Dianzi University (Cloud Computing Research Center)
       duration: Sep 2017 - Jun 2020 Master
       location: No.1158, No.2 Street, Baiyang Street, Hangzhou Economic Development Zone, Hangzhou, Zhejiang Province
-      major: Computer Technology
+      major: Computer Technology 计算机技术
     - university: Jiyang College of Zhejiayong A&F University Bachelors
       duration: Aug 2013 - Jun 2017 Bachelors
       location: No.77, Puyang Road, Zhuji City, Shaoxing City, Zhejiang Province
-      major: Computer Science and Technology
+      major: Computer Science and Technology 计算机科学与技术
   experience:
     - title: Golang Developer
       duration: Apr 2018 - Now
