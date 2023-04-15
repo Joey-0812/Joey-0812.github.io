@@ -16,7 +16,7 @@ footer:
 resume:
   name: 周佳勇
   jobtitle: 云原生开发工程师
-  portrait: img/default.jpg # author's portrait
+  portrait: img/myavatar.jpg # author's portrait
   contact:
     - icon: fa-envelope
       text: jiayong.zhou@outlook.com
