@@ -5,8 +5,8 @@ footer:
   copyright:  # customize your copyright in footer, e.g. © 2019-2020 Zhiwei Li
     startYear: 2021
     currentYear: 2023
-    author: Zhiwei Li
-    link: https://jiayong-zhou.github.io/
+    author: Jiayong Zhou
+    link: https://Joey-0812.github.io/
     beian: 
 
 
@@ -27,31 +27,34 @@ resume:
       link: https://www.cnblogs.com/zhoujiayong/
     - icon: fa-github
       text: GITHUB
-      link: https://github.com/mtics/hexo-mtics-resume
+      link: https://github.com/Joey-0812
   education:
-    - university: Hangzhou Dianzi University (Cloud Computing Research Center)
+    - university: 杭州电子科技大学 (Hangzhou Dianzi University)
       duration: Sep 2017 - Jun 2020 Master
-      location: No.1158, No.2 Street, Baiyang Street, Hangzhou Economic Development Zone, Hangzhou, Zhejiang Province
-      major: Computer Technology 计算机技术
-    - university: Jiyang College of Zhejiayong A&F University Bachelors
+      location: 杭州市钱塘区白杨街道2号大街1158号
+      major: 计算机技术 Computer Technology
+    - university: 浙江农林大学暨阳学院
       duration: Aug 2013 - Jun 2017 Bachelors
-      location: No.77, Puyang Road, Zhuji City, Shaoxing City, Zhejiang Province
-      major: Computer Science and Technology 计算机科学与技术
+      location: 浙江省诸暨市浦阳路77号
+      major: 计算机科学与技术 Computer Science and Technology 
   experience:
-    - title: Golang Developer
+    - title: 云原生开发 (Golang)
       duration: Apr 2018 - Now
-      company: 容器服务域/杭州华为云计算技术有限公司 Container Service Domain.Hangzhou,Huawei Enterprise Communication Technology, Inc.
-      description: 熟悉istio，k8s生态，熟练使用go语言开发云原生项目。负责云服务ASM某产品项目开发和部分版本管理工作，能够担任部分特性owner，独立承担一定粒度的特性设计/特性开发工作，包括但不限于在开源产品基础上实现产品化功能，数据面(data plane)性能提升特性等。
-    - title: Cloud Solution Architect
+      company: 容器服务域/杭州华为云计算技术有限公司 Container Service Domain.Hangzhou,Huawei Enterprise Communication Technology, Ltd.
+      description: 熟悉istio，k8s生态，熟练使用go语言开发云原生项目。负责华为云某容器产品项目开发和部分版本管理工作，能够担任部分特性owner，独立承担一定粒度的特性设计/特性开发工作，包括但不限于在开源产品基础上实现产品化功能，数据面(data plane)性能提升特性等。
+    - title: 解决方案架构师 (Cloud Solution Architect)
       duration: Mar 2019 - Apr 2020
-      company: 公有云业务部/杭州华为企业通信有限公司 Public Cloud Solutions Department. Hangzhou,Huawei Enterprise Communication Technology, Inc.
+      company: 公有云业务部/杭州华为企业通信有限公司 Public Cloud Solutions Department. Hangzhou,Huawei Enterprise Communication Technology, Ltd.
       description: NA项目的关键角色之一。基于华为云现有业务，为NA客户提供可信的上云/用云解决方案。主要面向互联网赛道，广电媒资行业和游戏行业。
   projects:
     - name: 应用服务网格  Service Mesh Project(Golang Developer).
-      description: 该项目为服务下某商用项目（长期项目）。在该项目中担任版本owner，负责该项目多轮版本特性开发/需求管理/版本管理工作。工作内容主要包括云服务管理面开发，同时看护并实现istio服务网格控制面(controle plane)和数据面(data plane)自研特性。
-      contribution: 团队主要开发成员/业务模块owner.
+      description: 该项目为服务下某商用项目（云服务）。在该项目中担任关键部分业务PM，负责该项目多轮版本特性开发/需求管理/版本管理工作。工作内容主要包括云服务管理面开发，同时看护并实现istio服务网格控制面和数据面自研特性。
+      contribution: 团队主要开发成员/关键部分业务PM.
+    - name: 数据面性能提升（based on Lazyload）
+      description: 我们团队分析了 Istio 的架构，发现了导致高资源消耗的性能瓶颈。我们提出了一种自适应配置加载机制，将数据平面的内存消耗降低了 98%。
+      contribuytion: 方案成员之一/关键开发人员
     - name: NA客户游戏上云项目  Games Deploy On Cloud(Solution Architect)
-      description: NA客户游戏业务上云项目。项目期间，用户核心业务部署上云，通过和项目干系人多轮沟通，在多个知名友商激烈竞争下，以合理的收入区间中标。项目直接带来同比100%+的收入增量。
+      description: NA客户游戏业务上云项目。项目期间，用户核心业务部署上云，通过和项目干系人多轮沟通，在多个知名友商激烈竞争下，以合理的金额中标。项目直接带来同比100%+的收入增量。
       contribution: SA角色，项目核心贡献者之一。
   skills:
     - title: Golang 技术栈
