@@ -60,4 +60,4 @@ resume:
     - title: Golang技术栈
       items: Golang, GO WEB, SQL, Microservice/Restful Development
     - title: 服务网格/云原生
-      items: Istio, Envoy, Kubernetes, Dev Ops, Helm, etc.
+      items: Istio, Envoy, Kubernetes, Dev Ops, etc.
