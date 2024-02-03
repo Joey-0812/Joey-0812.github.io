@@ -4,7 +4,7 @@ footer:
   enable: true # decide where you want to show  your footer
   copyright:  # customize your copyright in footer, e.g. © 2019-2020 Zhiwei Li
     startYear: 2021
-    currentYear: 2023
+    currentYear: 2024
     author: Jiayong Zhou
     link: https://Joey-0812.github.io/
     beian: 
@@ -29,35 +29,35 @@ resume:
       text: GITHUB
       link: https://github.com/Joey-0812
   education:
-    - university: 杭州电子科技大学 (Hangzhou Dianzi University)
+    - university: 杭州电子科技大学
       duration: Sep 2017 - Jun 2020 Master
       location: 杭州市钱塘区白杨街道2号大街1158号
-      major: 计算机技术 Computer Technology
+      major: 计算机技术
     - university: 浙江农林大学暨阳学院
       duration: Aug 2013 - Jun 2017 Bachelors
       location: 浙江省诸暨市浦阳路77号
-      major: 计算机科学与技术 Computer Science and Technology 
+      major: 计算机科学与技术
   experience:
     - title: 云原生开发 (Golang)
       duration: Apr 2018 - Now
-      company: 容器服务域/杭州华为云计算技术有限公司 Container Service Domain.Hangzhou,Huawei Enterprise Communication Technology, Ltd.
+      company: 容器服务域/杭州华为企业通信有限公司
       description: 熟悉istio，k8s生态，熟练使用go语言开发云原生项目。负责华为云某容器产品项目开发和部分版本管理工作，能够担任部分特性owner，独立承担一定粒度的特性设计/特性开发工作，包括但不限于在开源产品基础上实现产品化功能，数据面(data plane)性能提升特性等。
-    - title: 解决方案架构师 (Cloud Solution Architect)
+    - title: 解决方案架构师
       duration: Mar 2019 - Apr 2020
-      company: 公有云业务部/杭州华为企业通信有限公司 Public Cloud Solutions Department. Hangzhou,Huawei Enterprise Communication Technology, Ltd.
+      company: 公有云业务部/杭州华为企业通信有限公司
       description: NA项目的关键角色之一。基于华为云现有业务，为NA客户提供可信的上云/用云解决方案。主要面向互联网赛道，广电媒资行业和游戏行业。
   projects:
-    - name: 应用服务网格  Service Mesh Project(Golang Developer).
+    - name: 应用服务网格 (Golang)
       description: 该项目为服务下某商用项目（云服务）。在该项目中担任关键部分业务PM，负责该项目多轮版本特性开发/需求管理/版本管理工作。工作内容主要包括云服务管理面开发，同时看护并实现istio服务网格控制面和数据面自研特性。
-      contribution: 团队主要开发成员/关键部分业务PM.
-    - name: 数据面性能提升（based on Lazyload）
-      description: 我们团队分析了 Istio 的架构，发现了导致高资源消耗的性能瓶颈。我们提出了一种自适应配置加载机制，将数据平面的内存消耗降低了 98%。
+      contribution: 团队主要开发成员/版本经理
+    - name: 数据面性能提升
+      description: 我们团队分析了Istio的架构，发现了导致高资源消耗的性能瓶颈。作为团队核心成员，提出一种自适应配置加载机制，将数据平面的内存消耗降低了98%。
       contribuytion: 方案成员之一/关键开发人员
-    - name: NA客户游戏上云项目  Games Deploy On Cloud(Solution Architect)
+    - name: NA客户游戏上云项目
       description: NA客户游戏业务上云项目。项目期间，用户核心业务部署上云，通过和项目干系人多轮沟通，在多个知名友商激烈竞争下，以合理的金额中标。项目直接带来同比100%+的收入增量。
-      contribution: SA角色，项目核心贡献者之一。
+      contribution: SA/项目核心贡献者之一
   skills:
-    - title: Golang 技术栈
+    - title: Golang技术栈
       items: Golang, GO WEB, SQL, Microservice/Restful Development
     - title: 服务网格/云原生
       items: Istio, Envoy, Kubernetes, Dev Ops, Helm, etc.
